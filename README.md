@@ -1,8 +1,6 @@
 # Lab13web
 untuk memenuhi tugas pemogramman web
-
-# Lab12web
-utnuk memenuhi tugas pemoggramman web
+Pratikum 13
 
 Nama     : Antini permatasari<br>
 NIM      : 312010095<br>
